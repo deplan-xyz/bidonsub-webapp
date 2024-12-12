@@ -50436,7 +50436,7 @@ A.aro.prototype={
 $1(a){var s,r=this.a,q=r.a.c,p=q.gra()
 r=r.a.c
 s=A.h(r.e)
-return A.aJO("$"+s+" USDC will be charged from your Subdoor balance","$"+A.h(q.e)+" USDC /"+p,q.c,new A.arm(a),new A.arn(a),"Get Top-Up for "+r.b+" for $"+s+" USDC")},
+return A.aJO("$"+s+" USDC will be charged from your Subdoor balance","$"+A.h(q.e)+" USDC /"+p,q.c,new A.arm(a),new A.arn(a),"Top-Up "+r.b+" card for $"+s+" USDC")},
 $S:137}
 A.arm.prototype={
 $0(){A.da(this.a,!1).kI(null)
